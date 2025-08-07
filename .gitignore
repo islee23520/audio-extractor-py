@@ -23,3 +23,5 @@ venv/
 # 기타
 *.bak
 *.orig
+
+video-source/
