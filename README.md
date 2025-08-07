@@ -5,12 +5,10 @@
 ## 설치 및 실행
 
 ### macOS/Linux:
-1. `./run.sh` 실행
-2. `audio-extractor videoname.mp4` (옵션: `--bitrate 64k`)
+`./run.sh videoname.mp4` (옵션: `--bitrate 64k`)
 
 ### Windows:
-1. `run.bat` 실행
-2. `audio-extractor videoname.mp4` (옵션: `--bitrate 64k`)
+`run.bat videoname.mp4` (옵션: `--bitrate 64k`)
 
 ## 의존성
 - ffmpeg 설치 필요 (Windows: https://ffmpeg.org/download.html 에서 다운로드하고 PATH에 추가)

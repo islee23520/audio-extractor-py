@@ -8,6 +8,6 @@ fi
 
 source $VENV_DIR/bin/activate
 
-pip install .
+pip install -e .
 
-echo "이제 'audio-extractor' 명령어로 실행하세요. 예: audio-extractor videoname.mp4"
+audio-extractor "$@"
