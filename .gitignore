@@ -1,0 +1,25 @@
+# Python 관련
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 가상 환경
+venv/
+.venv/
+
+# 로그와 임시 파일
+*.log
+*.tmp
+*.swp
+
+# macOS 시스템 파일
+.DS_Store
+
+# 기타
+*.bak
+*.orig
